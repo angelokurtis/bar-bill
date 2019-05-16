@@ -1,2 +1,2 @@
 # bar-bill
-First approaches to MicroProfile
+Split the bill in restaurants and bars
